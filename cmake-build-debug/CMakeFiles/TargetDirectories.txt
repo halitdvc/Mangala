@@ -1,0 +1,3 @@
+C:/Users/halit/CLionProjects/Mangala/cmake-build-debug/CMakeFiles/Mangala.dir
+C:/Users/halit/CLionProjects/Mangala/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/halit/CLionProjects/Mangala/cmake-build-debug/CMakeFiles/rebuild_cache.dir
